@@ -1,0 +1,14 @@
+{
+  "format": "pv-registry-1",
+  "rev": 1,
+  "updated": "2026-10-29",
+  "worlds": [
+    { "wid": 0,  "code": "PLAZA",  "name": "Prospect Valley Plaza", "kind": "plaza",
+      "vrc": "", "status": "planned", "v1": 0, "plat": "PAI",
+      "biome": "plaza", "lv": [1, 60], "covers": [0], "wires": true, "listing": [1, 2, 3] },
+    { "wid": 30, "code": "1-S-B2", "name": "Knights Bay", "kind": "parcel",
+      "vrc": "", "status": "live", "v1": 3, "plat": "PAI",
+      "biome": "knights-bay-shore", "lv": [1, 15], "covers": [30], "wires": true,
+      "gates": { "w": 29, "e": 31, "in": 26, "bridge": 76 } }
+  ]
+}
